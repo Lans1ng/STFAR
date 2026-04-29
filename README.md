@@ -1,9 +1,11 @@
-# STFAR: Improving Object Detection Robustness at Test-Time by Self-Training with Feature Alignment Regularization
+# STFAR: Test-Time Adaptive Object Detection through Self-Training and Feature Alignment Regularization
 
 ![](./assets/Pipeline.png)
 
 This repository provides the official implementation of the paper  
-["STFAR: Improving Object Detection Robustness at Test-Time by Self-Training with Feature Alignment Regularization"](https://arxiv.org/abs/2303.17937).
+["STFAR: Test-Time Adaptive Object Detection through Self-Training and Feature Alignment Regularization"](https://www.sciencedirect.com/science/article/abs/pii/S0957417426015071), accepted by **Expert Systems with Applications (ESWA), 2026**.
+
+The arXiv version is also available [here](https://arxiv.org/abs/2303.17937).
 
 ---
 
@@ -83,10 +85,12 @@ We sincerely thank the developers and contributors of these projects for their v
 ## 📚 Citation
 If you find this work helpful, please consider citing:
 ```bib
-@article{chen2023stfar,
-  title={STFAR: Improving Object Detection Robustness at Test-Time by Self-Training with Feature Alignment Regularization},
-  author={Chen, Yijin and Xu, Xun and Su, Yongyi and Jia, Kui},
-  journal={arXiv preprint arXiv:2303.17937},
-  year={2023}
+@article{liu2026stfar,
+  title={STFAR: Test-Time Adaptive Object Detection through Self-Training and Feature Alignment Regularization},
+  author={Liu, Nanqing and Chen, Yijin and Su, Yongyi and Zhang, Haojie and Cai, Lile and Li, Heng-Chao and Jia, Kui and Li, Tianrui and Xu, Xun and Foo, Chuan-Sheng},
+  journal={Expert Systems with Applications},
+  year={2026},
+  url={https://www.sciencedirect.com/science/article/abs/pii/S0957417426015071},
+  publisher={Elsevier}
 }
 ```
